@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hello@freddienelson.co.uk**
 
-- 🛴 **I also ride scooters**
+- 🛴 Fun fact **I also ride scooters**
 
 
 <h3 align="left">Languages and Tools:</h3>
