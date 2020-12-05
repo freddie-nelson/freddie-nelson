@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Mustap](https://github.com/freddie-nelson/mustap.me)
 
-- 🌱 I’m currently learning **how to build highly scalable apps**
+- 🌱 I’m currently learning **how to build highly scalable applications**
 
 - 👯 I’m looking to collaborate on **MEVN stack open source projects**
 
