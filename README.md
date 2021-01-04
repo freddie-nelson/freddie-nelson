@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Freddie Nelson</h1>
 <h3 align="center">A passionate fullstack developer from Scotland</h3>
 
-- 🔭 I’m currently working on [Mustap](https://github.com/freddie-nelson/mustap.me)
+- 🔭 I’m currently working on [Mustap](https://mustap.app)
 
 - 🌱 I’m currently learning **how to build highly scalable applications**
 
