@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Mustap](https://mustap.app) and [RedditBooster](https://redditbooster.com/)
 
-- 🌱 I’m currently learning **how to build highly scalable applications**
+- 🌱 I’m also learning [Golang](https://golang.org/)
 
-- 👨‍💻 All of my projects are available at [https://freddienelson.co.uk](freddienelson.co.uk)
+- 👨‍💻 Check me out at [https://freddienelson.co.uk](freddienelson.co.uk)
 
 - 📫 How to reach me **freddie0208@hotmail.com**
 
