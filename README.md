@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Freddie Nelson</h1>
 <h3 align="center">A passionate fullstack developer from Scotland</h3>
 
-- 🔭 I’m currently working on [Mustap](https://mustap.app) and [RedditBooster](https://redditbooster.com/)
+- 🔭 I’m currently working on [Mustap](https://mustap.app) and [Scuffed Uno](https://scuffeduno.online/)
 
 - 🌱 I’m also learning [Golang](https://golang.org/)
 
