@@ -5,7 +5,7 @@
 
 - 🌱 I’m also learning [Golang](https://golang.org/)
 
-- 👨‍💻 Check me out at [https://freddienelson.co.uk](freddienelson.co.uk)
+- 👨‍💻 Check me out at [freddienelson.co.uk](https://freddienelson.co.uk)
 
 - 📫 How to reach me **freddie0208@hotmail.com**
 
