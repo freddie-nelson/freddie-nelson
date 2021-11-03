@@ -11,4 +11,12 @@
 
 - 🛴 Fun fact **I also ride scooters**
 
+<br>
+<br>
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=freddie-nelson&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
 
