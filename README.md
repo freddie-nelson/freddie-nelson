@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Freddie Nelson</h1>
 <h3 align="center">A passionate fullstack developer from Scotland</h3>
 
-- 🔭 I’m currently working on [Haggis Lang](https://github.com/freddie-nelson/haggis-lang) and [Scuffed Uno](https://scuffeduno.online/)
+- 🔭 I’m currently working on scoot.deals [WIP] and [Scuffed Uno](https://scuffeduno.online/)
 
-- 🌱 I’m also learning Graphics Programming
+- 🌱 I’m also learning (react)[https://reactjs.org]
 
 - 👨‍💻 Check me out at [freddienelson.co.uk](https://freddienelson.co.uk)
 
