@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on scoot.deals [WIP] and [Scuffed Uno](https://scuffeduno.online/)
 
-- 🌱 I’m also learning (react)[https://reactjs.org]
+- 🌱 I’m also learning [React](https://reactjs.org)
 
 - 👨‍💻 Check me out at [freddienelson.co.uk](https://freddienelson.co.uk)
 
