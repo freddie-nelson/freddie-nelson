@@ -7,7 +7,7 @@
 
 - 👨‍💻 Check me out at [freddienelson.co.uk](https://freddienelson.co.uk)
 
-- 📫 How to reach me **freddie0208@hotmail.com**
+- 📫 How to reach me [freddie@freddienelson.co.uk](mailto:freddie@freddienelson.co.uk)
 
 - 🛴 Fun fact **I also ride scooters**
 
