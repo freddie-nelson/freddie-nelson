@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Freddie Nelson</h1>
 <h3 align="center">A passionate fullstack developer from Scotland</h3>
 
-- 🔭 I’m currently working on scoot.deals [WIP] and [Scuffed Uno](https://scuffeduno.online/)
+- 🔭 I’m currently working on scoot.deals [WIP], [IG Bot](https://github.com/freddie-nelson/ig-bot) and [Scuffed Uno](https://scuffeduno.online/)
 
 - 🌱 I’m also learning [React](https://reactjs.org)
 
