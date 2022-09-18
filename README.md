@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on scoot.deals [WIP] and [IG Bot](https://github.com/freddie-nelson/ig-bot)
 
-- 🌱 I’m also learning [React](https://reactjs.org) 
+- 🌱 I’m also learning about Networking
 
 - 👨‍💻 Check me out at [freddienelson.co.uk](https://freddienelson.co.uk)
 
