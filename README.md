@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Freddie Nelson</h1>
 <h3 align="center">A passionate fullstack developer from Scotland</h3>
 
-- 🔭 I’m currently working on scoot.deals [WIP] and [IG Bot](https://github.com/freddie-nelson/ig-bot)
+- 🔭 I’m currently working on [emile](https://github.com/freddie-nelson/emile), a full-stack JS game engine to make building real time multiplayer games easy
 
-- 🌱 I’m also learning about Networking
+- 🌱 I’m also learning about Database Engineering
 
 - 👨‍💻 Check me out at [freddienelson.co.uk](https://freddienelson.co.uk)
 
 - 📫 How to reach me [freddie@freddienelson.co.uk](mailto:freddie@freddienelson.co.uk)
 
-- 🛴 Fun fact **I also ride scooters**
+- 🏋️ Fun fact **I love lifting heavy circles**
 
 <br>
 <br>
